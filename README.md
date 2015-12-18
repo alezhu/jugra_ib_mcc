@@ -1,2 +1,4 @@
-# jugra_ib_mcc
-MCC in Jugra internet bank
+# MCC in Jugra internet bank
+
+Show operations MCC in Jugra new internet bank 
+Показывает MCC код для операций в новом ИБ Югры
