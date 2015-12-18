@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MCC in Jugra internet bank 
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/alezhu/jugra_ib_mcc
+// @version      0.2
 // @description  Show operations MCC in Jugra new internet bank 
 // @author       alezhu
 // @match        https://online.jugra.ru/main
