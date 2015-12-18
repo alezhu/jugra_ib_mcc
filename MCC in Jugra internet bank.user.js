@@ -7,6 +7,10 @@
 // @match        https://online.jugra.ru/main
 // @grant        none
 // @run-at      document-idle
+// @source       https://raw.githubusercontent.com/alezhu/jugra_ib_mcc/master/MCC%20in%20Jugra%20internet%20bank.user.js
+// @updateURL    https://raw.githubusercontent.com/alezhu/jugra_ib_mcc/master/MCC%20in%20Jugra%20internet%20bank.user.js
+// @downloadURL  https://raw.githubusercontent.com/alezhu/jugra_ib_mcc/master/MCC%20in%20Jugra%20internet%20bank.user.js
+
 // ==/UserScript==
 /* jshint -W097 */
 'use strict';
