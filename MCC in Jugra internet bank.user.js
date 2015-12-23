@@ -4,8 +4,7 @@
 // @version      0.3
 // @description  Show operations MCC in Jugra new internet bank 
 // @author       alezhu
-// @match        https://online.jugra.ru/main*
-// @match        https://online.jugra.ru/auth*
+// @match        https://online.jugra.ru/*
 // @grant        none
 // @source       https://raw.githubusercontent.com/alezhu/jugra_ib_mcc/master/MCC%20in%20Jugra%20internet%20bank.user.js
 // @updateURL    https://raw.githubusercontent.com/alezhu/jugra_ib_mcc/master/MCC%20in%20Jugra%20internet%20bank.user.js
